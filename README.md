@@ -11,5 +11,5 @@ This README would normally document whatever steps are necessary to get your app
 * terraform init
 * terraform plan
 * terraform apply
-* terraform delete
-* terraform delete -target <resource name>
+* terraform destroy
+* terraform destroy -target <resource name>
